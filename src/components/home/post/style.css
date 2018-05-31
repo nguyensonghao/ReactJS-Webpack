@@ -1,0 +1,13 @@
+.post {
+    padding: 6px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin: 6px;
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+
+.post .title {
+    font-size: 18px;
+}
